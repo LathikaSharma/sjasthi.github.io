@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Jasthi's GitHub Home Page
 
-You can use the [editor on GitHub](https://github.com/sjasthi/sjasthi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work as Software Consultant at Siemens PLM Software. And I teach Computer Science classes as Community Faculty at Metropolitan State University, MN. The projects hosted on this site are primarily the projects done in different classes I teach. Many of these projects are done for non-profit organizations based in Twin Cities. Majority of the projects span multiple semesters.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some courses I teach at Metro.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjasthi/sjasthi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# ICS499: Software Engineering and Capstone Project
+# ICS325: Internet Application Development
+# ICS240: Introduction to Data Structures
+# ICS340: Algorithms and Data Structures
+# ICS141: Programming with Objects
+# ICS470: Software Engineering
+# ICS370: Software Design Models
+# ICS699: Special Topics in Software Engineering
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See the syllabus
